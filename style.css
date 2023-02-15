@@ -1,0 +1,23 @@
+#body{
+    /* background-image: linear-gradient(rgb(91, 42, 182),rgb(114, 212, 212)); */
+    background-color:rgb(172, 145, 223) ;
+}
+.fa-light,.error {
+    color: red;
+}
+#parentDiv{
+    display: grid;
+    grid-template-columns: 100px;
+}
+#cardUpd{
+    background-color: rgb(132, 121, 236)!important;
+    box-shadow: 10px;
+}
+#cardDiv{
+    margin-left: 10vw;
+}
+#myTable{
+    box-shadow: 20px;
+    background-color:rgb(91, 138, 119);
+    border: 20px;
+}

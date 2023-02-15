@@ -1,0 +1,71 @@
+[
+    {
+        "GUNId": "101",
+        "Name": "M lok",
+        "ImageUrl": "https://cdn11.bigcommerce.com/s-16115g8ghe/images/stencil/1280x1280/q/apisqdhhu__23694.original.jpg",
+        "Price": 10800,
+        "Types": "Rifle"
+    },{
+        "GUNId": "102",
+        "Name": "The AR-15",
+        "ImageUrl": "https://legionary.com/wp-content/uploads/2021/07/112972125_m-1024x477-1.jpeg?ezimgfmt=ng:webp/ngcb2",
+        "Price": 35000,
+        "Types": "Assault rifle"
+    },
+    {
+        "GUNId": "103",
+        "Name": " AK-47",
+        "ImageUrl": "https://cdn1.epicgames.com/ue/product/Screenshot/Screen011920x1080-1920x1080-658ca5d31d91357e8d8021ab5e2d1afd.jpg?resize=1&w=1920",
+        "Price": 25000,
+        "Types": "Sniper"
+    },
+    {
+        "GUNId": "104",
+        "Name": "AWM",
+        "ImageUrl": "https://c4.wallpaperflare.com/wallpaper/806/837/262/war-and-army-sniper-wallpaper-preview.jpg",
+        "Price": 12000,
+        "Types": "sniper"
+    },
+    {
+        "GUNId": "105",
+        "Name": "1B1 INSAS",
+        "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/INSAS_LMG.JPG/440px-INSAS_LMG.JPG",
+        "Price": 11000,
+        "Types": "Assault Rifle"
+    },
+    {
+        "GUNId": "106",
+        "Name": "IWI X95",
+        "ImageUrl": "https://www.shootingillustrated.com/media/v4ebxjs1/x95.jpg?anchor=center&mode=crop&width=987&height=551&rnd=132682259879000000&quality=70",
+        "Price": 25000,
+        "Types": "Assault Rifle"
+    },
+    {
+        "GUNId": "107",
+        "Name": "T91 assault rifle",
+        "ImageUrl": "https://i.ytimg.com/vi/8CQkI_9r0B8/maxresdefault.jpg",
+        "Price": 13000,
+        "Types": "Assault Rifle"
+    },
+    {
+        "GUNId": "108",
+        "Name": "IMI Galil 7.62 Sniper",
+        "ImageUrl": "https://modernfirearms.net/userfiles/images/sniper/sn32/galil2.jpg",
+        "Price": 12400,
+        "Types": "Sniper"
+    },
+    {
+        "GUNId": "109",
+        "Name": "M2 heavy Machine Gun",
+        "ImageUrl": "https://cdn1.epicgames.com/ue/product/Screenshot/FiftyGallery01-1920x1080-04abdd9e81083268fd21c712332160cd.jpg?resize=1&w=1920",
+        "Price": 200000,
+        "Types": "Machine Gun"
+    },
+    {
+        "GUNId": "110",
+        "Name": "FN EVOLYS",
+        "ImageUrl": "https://www.army-technology.com/wp-content/uploads/sites/3/2021/05/FN_EVOLYS_7-62_Atmo_1_805x.jpg",
+        "Price": 160000,
+        "Types": "Machine Gun"
+    }
+]
